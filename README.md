@@ -40,6 +40,18 @@ List of badges related to performance testing and monitoring to use it in your r
 
 `![stresstesting](https://img.shields.io/badge/stresstesting-yes-yellow)`
 
+### Pass
+
+![stresstesting](https://img.shields.io/badge/stresstesting-pass-success)
+
+`![stresstesting](https://img.shields.io/badge/stresstesting-yes-success)`
+
+### Fail
+
+![stresstesting](https://img.shields.io/badge/stresstesting-fail-red)
+
+`![stresstesting](https://img.shields.io/badge/stresstesting-fail-red)`
+
 ## Background Noise - Yes
 
 ![background-noise](https://img.shields.io/badge/background--noise-yes-9cf)
