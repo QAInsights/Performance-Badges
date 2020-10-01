@@ -112,39 +112,39 @@ List of badges related to performance testing and monitoring to use it in your r
 ## Apache JMeter
 
 ### Version
-![jmeter](https://img.shields.io/badge/jmeter-5.3-%23CB2136)
+![jmeter](https://img.shields.io/badge/jmeter-5.3-%23CB2136?logo=apache)
 
-`![jmeter](https://img.shields.io/badge/jmeter-5.3-%23CB2136)`
+`![jmeter](https://img.shields.io/badge/jmeter-5.3-%23CB2136)?logo=apache`
 
 ### Samplers
 
-![samplers](https://img.shields.io/badge/sampler-https-%23CB2136)
+![samplers](https://img.shields.io/badge/sampler-https-%23CB2136?logo=apache)
 
-`![samplers](https://img.shields.io/badge/sampler-https-%23CB2136)`
+`![samplers](https://img.shields.io/badge/sampler-https-%23CB2136)?logo=apache`
 
 ### JMeter Plugins - Yes
 
-![jmeter-plugins](https://img.shields.io/badge/jmeter--plugins-yes-%23CB2136)
+![jmeter-plugins](https://img.shields.io/badge/jmeter--plugins-yes-%23CB2136?logo=apache)
 
-`![jmeter](https://img.shields.io/badge/jmeter--plugins-yes-%23CB2136)`
+`![jmeter](https://img.shields.io/badge/jmeter--plugins-yes-%23CB2136)?logo=apache`
 
 ### JMeter Plugins - No
 
-![jmeter-plugins](https://img.shields.io/badge/jmeter--plugins-no-%23CB2136)
+![jmeter-plugins](https://img.shields.io/badge/jmeter--plugins-no-%23CB2136?logo=apache)
 
-`![jmeter](https://img.shields.io/badge/jmeter--plugins-no-%23CB2136)`
+`![jmeter](https://img.shields.io/badge/jmeter--plugins-no-%23CB2136)?logo=apache`
 
 ### JEval - Yes
 
-![jeval](https://img.shields.io/badge/jeval-yes-%23CB2136)
+![jeval](https://img.shields.io/badge/jeval-yes-%23CB2136?logo=apache)
 
-`![jeval](https://img.shields.io/badge/jeval-yes-%23CB2136)`
+`![jeval](https://img.shields.io/badge/jeval-yes-%23CB2136)?logo=apache`
 
 ### JEval - No
 
-![jeval](https://img.shields.io/badge/jeval-no-%23CB2136)
+![jeval](https://img.shields.io/badge/jeval-no-%23CB2136?logo=apache)
 
-`![jeval](https://img.shields.io/badge/jeval-no-%23CB2136)`
+`![jeval](https://img.shields.io/badge/jeval-no-%23CB2136?logo=apache)`
 
 ## LoadRunner
 
@@ -187,7 +187,7 @@ List of badges related to performance testing and monitoring to use it in your r
 
 ### General
 
-### CPU
+#### CPU
 
 ![cpu](https://img.shields.io/badge/cpu-normal-brightgreen)
 
@@ -201,7 +201,7 @@ List of badges related to performance testing and monitoring to use it in your r
 
 `![cpu](https://img.shields.io/badge/cpu-critical-red)`
 
-### Memory
+#### Memory
 
 ![memory](https://img.shields.io/badge/memory-normal-brightgreen)
 
@@ -215,7 +215,7 @@ List of badges related to performance testing and monitoring to use it in your r
 
 `![memory](https://img.shields.io/badge/memory-critical-red)`
 
-### Disk
+#### Disk
 
 ![disk](https://img.shields.io/badge/disk-normal-brightgreen)
 
@@ -229,7 +229,7 @@ List of badges related to performance testing and monitoring to use it in your r
 
 `![disk](https://img.shields.io/badge/disk-critical-red)`
 
-### Network
+#### Network
 
 ![network](https://img.shields.io/badge/network-normal-brightgreen)
 
@@ -243,7 +243,7 @@ List of badges related to performance testing and monitoring to use it in your r
 
 `![network](https://img.shields.io/badge/network-critical-red)`
 
-### Garbage Collection
+#### Garbage Collection
 
 ![gc](https://img.shields.io/badge/gc-normal-brightgreen)
 
@@ -257,7 +257,7 @@ List of badges related to performance testing and monitoring to use it in your r
 
 `![gc](https://img.shields.io/badge/gc-critical-red)`
 
-### Server
+#### Server
 
 ![server](https://img.shields.io/badge/server-up-brightgreen)
 
@@ -270,5 +270,13 @@ List of badges related to performance testing and monitoring to use it in your r
 ![server](https://img.shields.io/badge/server-inactive-lightgrey)
 
 `![server](https://img.shields.io/badge/server-inactive-lightgrey)`
+
+### Dynatrace
+
+![dynatrace](https://img.shields.io/badge/dynatrace-yes-brightgreen?logo=dynatrace)
+
+`![dynatrace](https://img.shields.io/badge/dynatrace-yes-brightgreen?logo=dynatrace)`
+
+
 
 
