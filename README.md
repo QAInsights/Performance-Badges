@@ -22,17 +22,35 @@ List of badges related to performance testing and monitoring to use it in your r
 
 `![loadtesting](https://img.shields.io/badge/loadtesting-fail-red)`
 
+### SLA - Met
+
+![sla](https://img.shields.io/badge/sla-met-success)
+
+`![sla](https://img.shields.io/badge/sla-met-success)`
+
+### SLA - Not Met
+
+![sla](https://img.shields.io/badge/sla-not--met-red)
+
+`![sla](https://img.shields.io/badge/sla-not--met-red)`
+
 ## Stress Testing
 
 ![stresstesting](https://img.shields.io/badge/stresstesting-yes-yellow)
 
 `![stresstesting](https://img.shields.io/badge/stresstesting-yes-yellow)`
 
-## Background Noise
+## Background Noise - Yes
 
 ![background-noise](https://img.shields.io/badge/background--noise-yes-9cf)
 
 `![background-noise](https://img.shields.io/badge/background--noise-yes-9cf)`
+
+## Background Noise - No
+
+![background-noise](https://img.shields.io/badge/background--noise-no-9cf)
+
+`![background-noise](https://img.shields.io/badge/background--noise-no-9cf)`
 
 ## Testing Tools
 
@@ -81,7 +99,7 @@ List of badges related to performance testing and monitoring to use it in your r
 
 `![loadrunner](https://img.shields.io/badge/loadrunner-2020-%230073E7)`
 
-## Protocols
+### Protocols
 
 ![lr-https](https://img.shields.io/badge/loadrunner-https-%230073E7)
 
@@ -90,4 +108,112 @@ List of badges related to performance testing and monitoring to use it in your r
 ![lr-devweb](https://img.shields.io/badge/loadrunner-devweb-%230073E7)
 
 `![lr-devweb](https://img.shields.io/badge/loadrunner-devweb-%230073E7)`
+
+### Thinktime
+
+![thinktime](https://img.shields.io/badge/thinktime-yes-%230073E7)
+
+`![thinktime](https://img.shields.io/badge/thinktime-yes-%230073E7)`
+
+### Pacing
+
+![pacing](https://img.shields.io/badge/pacing-yes-%230073E7)
+
+`![pacing](https://img.shields.io/badge/pacing-yes-%230073E7)`
+
+### LGs
+
+![lg](https://img.shields.io/badge/lg--count-5-%230073E7)
+
+`![lg](https://img.shields.io/badge/lg--count-5-%230073E7)`
+
+
+## Performance Monitoring
+
+### General
+
+### CPU
+
+![cpu](https://img.shields.io/badge/cpu-normal-brightgreen)
+
+`![cpu](https://img.shields.io/badge/cpu-normal-brightgreen)`
+
+![cpu](https://img.shields.io/badge/cpu-warning-orange)
+
+`![cpu](https://img.shields.io/badge/cpu-warning-orange)`
+
+![cpu](https://img.shields.io/badge/cpu-critical-red)
+
+`![cpu](https://img.shields.io/badge/cpu-critical-red)`
+
+### Memory
+
+![memory](https://img.shields.io/badge/memory-normal-brightgreen)
+
+`![memory](https://img.shields.io/badge/memory-normal-brightgreen)`
+
+![memory](https://img.shields.io/badge/memory-warning-orange)
+
+`![memory](https://img.shields.io/badge/memory-warning-orange)`
+
+![memory](https://img.shields.io/badge/memory-critical-red)
+
+`![memory](https://img.shields.io/badge/memory-critical-red)`
+
+### Disk
+
+![disk](https://img.shields.io/badge/disk-normal-brightgreen)
+
+`![disk](https://img.shields.io/badge/disk-normal-brightgreen)`
+
+![disk](https://img.shields.io/badge/disk-warning-orange)
+
+`![disk](https://img.shields.io/badge/disk-warning-orange)`
+
+![disk](https://img.shields.io/badge/disk-critical-red)
+
+`![disk](https://img.shields.io/badge/disk-critical-red)`
+
+### Network
+
+![network](https://img.shields.io/badge/network-normal-brightgreen)
+
+`![network](https://img.shields.io/badge/network-normal-brightgreen)`
+
+![network](https://img.shields.io/badge/network-warning-orange)
+
+`![network](https://img.shields.io/badge/network-warning-orange)`
+
+![network](https://img.shields.io/badge/network-critical-red)
+
+`![network](https://img.shields.io/badge/network-critical-red)`
+
+### Garbage Collection
+
+![gc](https://img.shields.io/badge/gc-normal-brightgreen)
+
+`![gc](https://img.shields.io/badge/gc-normal-brightgreen)`
+
+![gc](https://img.shields.io/badge/gc-warning-orange)
+
+`![gc](https://img.shields.io/badge/gc-warning-orange)`
+
+![gc](https://img.shields.io/badge/gc-critical-red)
+
+`![gc](https://img.shields.io/badge/gc-critical-red)`
+
+### Server
+
+![server](https://img.shields.io/badge/server-up-brightgreen)
+
+`![server](https://img.shields.io/badge/server-up-brightgreen)`
+
+![server](https://img.shields.io/badge/server-down-red)
+
+`![server](https://img.shields.io/badge/server-down-red)`
+
+![server](https://img.shields.io/badge/server-inactive-lightgrey)
+
+`![server](https://img.shields.io/badge/server-inactive-lightgrey)`
+
 
