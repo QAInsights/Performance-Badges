@@ -2,6 +2,41 @@
 
 List of badges related to performance testing and monitoring to use it in your repositories.
 
+- [Performance Badges](#performance-badges)
+  * [General](#general)
+  * [Load Testing](#load-testing)
+    + [Pass](#pass)
+    + [Fail](#fail)
+    + [SLA - Met](#sla---met)
+    + [SLA - Not Met](#sla---not-met)
+  * [Stress Testing](#stress-testing)
+    + [Pass](#pass-1)
+    + [Fail](#fail-1)
+  * [Background Noise - Yes](#background-noise---yes)
+  * [Background Noise - No](#background-noise---no)
+  * [Testing Tools](#testing-tools)
+  * [Apache JMeter](#apache-jmeter)
+    + [Version](#version)
+    + [Samplers](#samplers)
+    + [JMeter Plugins - Yes](#jmeter-plugins---yes)
+    + [JMeter Plugins - No](#jmeter-plugins---no)
+    + [JEval - Yes](#jeval---yes)
+    + [JEval - No](#jeval---no)
+  * [LoadRunner](#loadrunner)
+    + [Version](#version-1)
+    + [Protocols](#protocols)
+    + [Thinktime](#thinktime)
+    + [Pacing](#pacing)
+    + [LGs](#lgs)
+  * [Performance Monitoring](#performance-monitoring)
+    + [General](#general-1)
+    + [CPU](#cpu)
+    + [Memory](#memory)
+    + [Disk](#disk)
+    + [Network](#network)
+    + [Garbage Collection](#garbage-collection)
+    + [Server](#server)
+
 ## General
 
 ## Load Testing
