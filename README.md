@@ -3,6 +3,7 @@
 List of badges related to performance testing and monitoring to use it in your repositories.
 
 - [Performance Badges](#performance-badges)
+  * [Custom](#custom)
   * [General](#general)
   * [Load Testing](#load-testing)
     + [Pass](#pass)
@@ -36,6 +37,13 @@ List of badges related to performance testing and monitoring to use it in your r
     + [Network](#network)
     + [Garbage Collection](#garbage-collection)
     + [Server](#server)
+
+
+## Custom
+
+![<sample-text>](https://img.shields.io/badge/<your--text>-<your--status>-brightgreen)
+
+`![<sample-text>](https://img.shields.io/badge/<your--text>-<your--status>-<your-color>)`
 
 ## General
 
