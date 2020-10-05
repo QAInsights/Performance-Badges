@@ -1,58 +1,21 @@
-# Performance Badges
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-1EAEDB)]()
+[![saythanks](https://img.shields.io/badge/say-thanks-1EAEDB.svg)](https://saythanks.io/to/catch.nkn%40gmail.com)
+[![](https://img.shields.io/badge/license-MIT-0a0a0a.svg?style=flat&colorA=1EAEDB)](https://qainsights.com)
+[![](https://img.shields.io/badge/%E2%9D%A4-QAInsights-0a0a0a.svg?style=flat&colorA=1EAEDB)](https://qainsights.com)
+[![](https://img.shields.io/badge/%E2%9D%A4-YouTube%20Channel-0a0a0a.svg?style=flat&colorA=1EAEDB)](https://www.youtube.com/user/QAInsights?sub_confirmation=1)
+[![](https://img.shields.io/badge/donate-paypal-1EAEDB)](https://www.paypal.com/paypalme/NAVEENKUMARN)
+
+# ⚡ Performance Badges
 
 List of badges related to performance testing and monitoring to use it in your repositories.
 
-<details><summary>Table of Contents</summary>
-<br/>
-<p>
-
-- [Performance Badges](#performance-badges)
-  * [Custom](#custom)
-  * [General](#general)
-  * [Load Testing](#load-testing)
-    + [Pass](#pass)
-    + [Fail](#fail)
-    + [SLA - Met](#sla---met)
-    + [SLA - Not Met](#sla---not-met)
-  * [Stress Testing](#stress-testing)
-    + [Pass](#pass-1)
-    + [Fail](#fail-1)
-  * [Background Noise - Yes](#background-noise---yes)
-  * [Background Noise - No](#background-noise---no)
-  * [Testing Tools](#testing-tools)
-  * [Apache JMeter](#apache-jmeter)
-    + [Version](#version)
-    + [Samplers](#samplers)
-    + [JMeter Plugins - Yes](#jmeter-plugins---yes)
-    + [JMeter Plugins - No](#jmeter-plugins---no)
-    + [JEval - Yes](#jeval---yes)
-    + [JEval - No](#jeval---no)
-  * [LoadRunner](#loadrunner)
-    + [Version](#version-1)
-    + [Protocols](#protocols)
-    + [Thinktime](#thinktime)
-    + [Pacing](#pacing)
-    + [LGs](#lgs)
-  * [Performance Monitoring](#performance-monitoring)
-    + [General](#general-1)
-    + [CPU](#cpu)
-    + [Memory](#memory)
-    + [Disk](#disk)
-    + [Network](#network)
-    + [Garbage Collection](#garbage-collection)
-    + [Server](#server)
-
-</p>
-</details><br/>
-
-
-## Custom
+## ⭐ Custom
 
 ![<sample-text>](https://img.shields.io/badge/<your--text>-<your--status>-brightgreen)
 
 `![<sample-text>](https://img.shields.io/badge/<your--text>-<your--status>-<your-color>)`
 
-## General
+## ✴ General
 
 ## Load Testing
 
