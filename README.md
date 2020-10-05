@@ -2,6 +2,10 @@
 
 List of badges related to performance testing and monitoring to use it in your repositories.
 
+<details><summary>Table of Contents</summary>
+<br/>
+<p>
+
 - [Performance Badges](#performance-badges)
   * [Custom](#custom)
   * [General](#general)
@@ -37,6 +41,9 @@ List of badges related to performance testing and monitoring to use it in your r
     + [Network](#network)
     + [Garbage Collection](#garbage-collection)
     + [Server](#server)
+
+</p>
+</details><br/>
 
 
 ## Custom
@@ -276,7 +283,3 @@ List of badges related to performance testing and monitoring to use it in your r
 ![dynatrace](https://img.shields.io/badge/dynatrace-yes-brightgreen?logo=dynatrace)
 
 `![dynatrace](https://img.shields.io/badge/dynatrace-yes-brightgreen?logo=dynatrace)`
-
-
-
-
